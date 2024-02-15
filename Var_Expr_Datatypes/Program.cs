@@ -10,7 +10,7 @@ namespace Var_Expr_Datatypes
     {
         static void Main(string[] args)
         {
-            int soluong=0; //khai bao bien soluong
+            int soluong=0; 
             int khoiluong=0;
             double diemtoan = 10;
             string name = "Nguyễn Đăng Huy";
