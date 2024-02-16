@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Var_Expr_Datatypes
 {
-    class Program
+    class Var_Expr_Datatypes
     {
         static void Main(string[] args)
         {
